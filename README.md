@@ -71,11 +71,11 @@ After integrating the code and downloading the pretrained weights, you can run i
 If you find this work useful, please consider citing our paper:
 
 ```bash
-@article{xxx2025hafgovd,
+@article{2025hafgovd,
   title={HA-FGOVD: Highlighting Fine-Grained Attributes via Explicit Linear Composition for Open-Vocabulary Object Detection},
   author={Yuqi Ma and Mengyin Liu and Chao Zhu and Xu{-}Cheng Yin},
   year={2025}，
-  journal      = {{IEEE} Trans. Multim.},
+  journal={{IEEE} Trans. Multim.},
 }
 ```
 
